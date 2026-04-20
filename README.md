@@ -1,29 +1,36 @@
-# pepsilner
+# Weather App Vue
 
-This template should help get you started developing with Vue 3 in Vite.
+A weather forecast application built with Vue and Vite.  
+The app allows users to search for a city and view current weather data using an external API.
 
-## Recommended IDE Setup
+## Features
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- Search weather by city name
+- Display current temperature and weather conditions
+- API integration for real-time weather data
+- Error handling for invalid city names or failed requests
+- Component-based structure
+- Responsive user interface
 
-## Customize configuration
+## Tech Stack
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+- Vue 3
+- Vite
+- JavaScript
+- CSS
+- Axios
+- Weather API
 
-## Project Setup
+## Screenshots
 
-```sh
-npm install
-```
+Add screenshots here after deployment.
 
-### Compile and Hot-Reload for Development
+## Demo
 
-```sh
-npm run dev
-```
+Add demo link here.
 
-### Compile and Minify for Production
+## Installation
 
-```sh
-npm run build
-```
+1. Clone the repository:
+```bash
+git clone https://github.com/mrhazardgod/weather-app-vue.git
