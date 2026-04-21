@@ -36,17 +36,19 @@ git clone https://github.com/mrhazardgod/weather-app-vue.git
 cd weather-app-vue
 npm install
 npm run dev
+```
 
 ## Project Goal
 
 This project was created to improve my frontend development skills, practice working with Vue, API integration, and building responsive user interfaces.
 
 ## Possible Improvements
-Add loading state
-Save last searched city
-Add 5-day forecast
-Add temperature unit switcher
-Improve UI design
+
+- Add loading state
+- Save last searched city
+- Add 5-day forecast
+- Add temperature unit switcher
+- Improve UI design
 
 ## Author
 
